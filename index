@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarefa 15</title>
+</head>
+<body>
+    <h1>Tarefa 15</h1>
+    <script src="script.js"> </script>
+
+    <script>
+   
+        let x=10;
+        var y=5;
+        document.write('A soma de x e y é ' + x + y )
+
+        document.write('A divisão de x e y é ' + x/y )
+
+        document.write('A multiplicação de x e y é ' + x*y )
+
+        document.write('x é igual a y ' + x===y )
+    </script>
+</body>
+</html>
